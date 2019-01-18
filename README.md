@@ -12,5 +12,5 @@ Keras Image Augmentation has been used to capture more features.
 
 Model has not optimized for further improvement in accuracy.
 
-I have not uploaded train and test folder for Augment the Data
+I have not uploaded train and test folder in this repository for Augmentation.
 
